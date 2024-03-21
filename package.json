@@ -1,0 +1,38 @@
+{
+  "name": "temporased",
+  "version": "1.7.1",
+  "description": "Fast, small, most-efficient JavaScript memoization lib to memoize JS functions",
+  "author": "OtiliaBoehm",
+  "license": "MIT",
+  "homepage": "https://github.com/BrayanUpton/temporased.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrayanUpton/temporased.git"
+  },
+  "main": "src/memoizerific",
+  "keywords": [
+    "memoize",
+    "memoizer",
+    "memoization",
+    "memoized",
+    "qui",
+    "non",
+    "sed",
+    "cache",
+    "fast"
+  ],
+  "dependencies": {
+    "map-or-similar": "^1.2.3",
+    "officiiset": "^1.0.0",
+    "reprehenderita": "^1.2.0",
+    "sapientecorrupti": "^1.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "derequire": "^2.0.3",
+    "jasmine": "^2.4.1",
+    "npm-check-updates": "^2.6.7",
+    "uglify-js": "^2.6.2",
+    "watch": "^0.18.0"
+  }
+}
